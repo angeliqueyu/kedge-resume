@@ -1,0 +1,27 @@
+/* Write some CSS below */
+body{
+	background-color: #FFCE99;
+	font-size: 20px;
+
+}
+h1, h2, h3, h4{
+	color: blue;
+	font-family: ariel;
+	font-style: oblique;
+	font-weight: 400;
+} 
+
+a {
+
+	text-decoration: none;
+	color: pink;
+	background-color: white;
+
+}
+
+.networklogo{
+
+width: 35px;
+height: 35px;
+
+}
